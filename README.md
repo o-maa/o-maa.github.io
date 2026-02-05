@@ -12,14 +12,8 @@ This repository hosts the legal and policy pages for the OMaa Planner iOS applic
 
 ## Live URLs
 
-Once deployed to GitHub Pages, these pages will be available at:
+These pages will be available at:
 
 - https://o-maa.github.io/ios-privacy-policy
 - https://o-maa.github.io/ios-terms-of-service
 - https://o-maa.github.io/ios-return-policy
-
-## Setup
-
-1. Enable GitHub Pages in repository settings
-2. Set source to deploy from the main branch
-3. Pages will be served at `https://o-maa.github.io/`
